@@ -22,11 +22,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./assets/images/webpage-screenshot.png)
 
 ### Links
 
-- Live Site URL: [Social links profile](https://your-live-site-url.com)
+- Live Site URL: [Social links profile](https://65edf672f0eed899254a2da6--zesty-figolla-31c01f.netlify.app/)
 
 ## My process
 
